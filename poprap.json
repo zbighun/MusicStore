@@ -1,0 +1,207 @@
+﻿var arr = {
+ "poprelax": [
+  {
+   "name": "Arilena Ara-Nentori"
+   "url": "https://www.youtube.com/embed/-AKoKgVls54?ecver=1",
+   "kind": "pop",
+   "categorie": "relax"
+  },
+  {
+  "name": "Ed Sheeran-Love Yourself"
+   "url": "https://www.youtube.com/embed/QkL-lKBnmpo?ecver=1",
+  },
+  {
+  "name": "Ed Sheeran-Thinking out loud"
+   "url": "https://www.youtube.com/embed/lp-EO5I60KA?ecver=1",
+  }
+ ]
+ 
+ "popstudy": [
+  {
+  "name": "Kygo feat. Selena Gomez - It Ain't me"
+   "url": "https://www.youtube.com/embed/D5drYkLiLI8?ecver=1",
+   "kind": "pop",
+   "categorie": "study"
+  },
+  {
+  "name": "ODESZA-Line of the Sight"
+   "url": "https://www.youtube.com/embed/8ayH60ET4U0?ecver=1",
+  },
+  {
+  "name": "Alan Walker-Fade"
+   "url": "https://www.youtube.com/embed/60ItHLz5WEA?ecver=1",
+  }
+  ]
+  
+  "poptravel":[
+  {
+  "name": "Ed Sheeran-Castle on the Hill"
+   "url": "https://www.youtube.com/embed/K0ibBPhiaG0?ecver=1",
+   "kind": "pop",
+   "categorie": "travel"
+  },
+  {
+  "name": "Jonas Blue-Mama"
+   "url": "https://www.youtube.com/embed/qPTfXwPf_HM?ecver=1",
+  },
+  {
+  "name": "Duke Dumont-Ocean Drive"
+   "url": "https://www.youtube.com/embed/KDxJlW6cxRk?ecver=1",
+  }
+  ]
+  
+   "popdream":[
+  {
+  "name": "One Republic - Apologize"
+   "url": "https://www.youtube.com/embed/ZSM3w1v-A_Y?ecver=1",
+   "kind": "pop",
+   "categorie": "dream"
+  },
+  {
+  "name": "Ed Sheeran-Perfect"
+   "url": "https://www.youtube.com/embed/iKzRIweSBLA?ecver=1",
+  },
+  {
+"name": "PETIT BISCUIT- Sunset Lover"
+  "url": "https://www.youtube.com/embed/wuCK-oiE3rM?ecver=1",
+  }
+  ]
+  
+  "popsport":[
+  {
+  "name": "Maroon 5 feat. Christina Aguilera - Moves Like Jagger"
+   "url": "https://www.youtube.com/embed/iEPTlhBmwRg?ecver=1",
+   "kind": "pop",
+   "categorie": "sport"
+  },
+  {
+  "name": "Rock Mafia - Fly or Die"
+   "url": "https://www.youtube.com/embed/DNnmOf2jRhk?ecver=1",
+  },
+  {
+  "name": "Maroon 5 - I Don't Wanna Know"
+   "url": "https://www.youtube.com/embed/ANS9sSJA9Yc?ecver=1",
+  }
+  ]
+  
+  "popparty":[
+  {
+  "name": "Lois Fonsi & Daddy Yankee-Despacito"
+   "url": "https://www.youtube.com/embed/kJQP7kiw5Fk?ecver=1",
+   "kind": "pop",
+   "categorie": "party"
+  },
+  {
+  "name": "MONATIK-Vitamin D"
+   "url": "https://www.youtube.com/embed/iib4Bmy5cow?ecver=1",
+  },
+  {
+  "name": "Rock Maria-The Big Bang"
+   "url": "https://www.youtube.com/embed/5etLRgwXmh0?ecver=1",
+  }
+  ]
+}
+
+var arr = {
+ "raprelax": [
+  {
+  "name": "ASAP Rocky-Phoenix"
+   "url": "https://www.youtube.com/embed/OZkAePyJO6U?ecver=1",
+   "kind": "rap",
+   "categorie": "relax"
+  },
+  {
+  "name": "Мот и Бьянка - Абсолютно всё"
+   "url": "https://www.youtube.com/embed/m96XcFwSUpg?ecver=1",
+  },
+  {
+  "name": "Kanye West - Coldest Winter"
+   "url": "https://www.youtube.com/embed/n6rjQ9VVLDI?ecver=1",
+  }
+ ]
+ 
+ "rapstudy": [
+  {
+  "name": "Баста - Сансара"
+   "url": "https://www.youtube.com/embed/aiCL0-U9WxI?ecver=1",
+   "kind": "rap",
+   "categorie": "study"
+  },
+  {
+  "name": "Eminem feat. Rihanna - Love the Way You Lie"
+   "url": "https://www.youtube.com/embed/uelHwf8o7_U?ecver=1",
+  },
+  {
+  "name": "Jah Khalib - Иди вслепую на свет"
+   "url": "https://www.youtube.com/embed/_urLz2HrCrU?ecver=1",
+  }
+ ]
+ 
+ "raptravel": [
+  {
+  "name": "Eminem feat. Sia - Guts over Fear"
+   "url": "https://www.youtube.com/embed/-0zo3vbqJOE?ecver=1",
+   "kind": "rap",
+   "categorie": "travel"
+  },
+  {
+  "name": "Eminem - Kings Never Die"
+   "url": "https://www.youtube.com/embed/rpERSigjqXs?ecver=1",
+  },
+  {
+  "name": "Jay-Z - 99 problems"
+   "url": "https://www.youtube.com/embed/6uikJTnmtgw?ecver=1",
+  }
+ ]
+ 
+ "rapdream": [
+  {
+  "name": "Jah Khalib - Созвездие Ангела"
+   "url": "https://www.youtube.com/embed/b0hqaAB8O7c?ecver=1",
+   "kind": "rap",
+   "categorie": "dream"
+  },
+  {
+  "name": "Eminem - Beautiful"
+   "url": "https://www.youtube.com/embed/lgT1AidzRWM?ecver=1",
+  },
+  {
+  "name": "Мот - Ливень"
+   "url": "https://www.youtube.com/embed/1PnVdJgCRJw?ecver=1",
+  }
+ ]
+ 
+  "rapsport": [
+  {
+  "name": "Kanye West - Stronger"
+   "url": "https://www.youtube.com/embed/PsO6ZnUZI0g?ecver=1",
+   "kind": "rap",
+   "categorie": "sport"
+  },
+  {
+  "name": "Eminem - I'm not Afraid"
+   "url": "https://www.youtube.com/embed/j5-yKhDd64s?ecver=1",
+  },
+  {
+  "name": "ASAP Rocky - Everyday"
+   "url": "https://www.youtube.com/embed/UtZBA1bVbcs?ecver=1",
+  }
+ ]
+ 
+"rapparty": [
+  {
+  "name": "Элджей - Розовое вино"
+   "url": "https://www.youtube.com/embed/S9oXj3a4gZ4?ecver=1",
+   "kind": "rap",
+   "categorie": "party"
+  },
+  {
+  "name": "T-Fest feat. Скриптонит - Ламбада"
+   "url": "https://www.youtube.com/embed/4-Pp-MEdKIA?ecver=1",
+  },
+  {
+  "name": "Jah Khalib-Если чё, я баха"
+   "url": "https://www.youtube.com/embed/QhBxS4K_G6M?ecver=1",
+  }
+ ]
+ }
